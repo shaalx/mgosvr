@@ -1,0 +1,2 @@
+# mgosvr
+mongodb server
